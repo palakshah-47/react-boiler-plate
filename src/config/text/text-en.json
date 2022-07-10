@@ -1,0 +1,21 @@
+{
+  "appName": "React Shell",
+  "common": {
+    "error": "There's been an internal error"
+  },  
+  "loginPage": {
+    "login": "Login"
+  },
+  "mainMenu": {
+    "account": "Account",
+    "logout": "Log out"   
+  },
+  "notFoundPage": {
+    "content": "The resource you are looking for has been removed, had its name changed, or is temporarily unavailable."
+  },
+  "services": {
+    "security": {
+      "login": "User Login"
+    }
+  }
+}

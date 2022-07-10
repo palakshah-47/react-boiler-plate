@@ -1,0 +1,13 @@
+{
+  "environment": {
+    "name": "mock"
+  },
+  "serviceMocker": {    
+  },
+  "services": {   
+    "security": "http://localhost:4001"    
+  },
+  "reduxLogger": {
+    "isEnabled": true
+  }
+}
